@@ -21,7 +21,7 @@ namespace AbstractyStudent
     }
     class Student : Person
     {
-        public static int size = 1;
+        public static int size = 999;
         Student[] data;
         public int Zacet { get; set; }
         public int Cours { get; set; }  
@@ -45,7 +45,7 @@ namespace AbstractyStudent
     }
     class Aspirant:Person
     {
-        public static int size=1;
+        public static int size=999;
         public int Cours { get; set; }
         public int Zachet { get; set; }
         public string Theme { get; set; }

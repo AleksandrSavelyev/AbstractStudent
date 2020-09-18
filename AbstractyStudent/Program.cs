@@ -92,6 +92,7 @@ namespace AbstractyStudent
             }           
             if (j == 0)
             {
+                j = 0;
                 Console.WriteLine("введите коректные данные");
                 NameValid();
             }
@@ -125,9 +126,10 @@ namespace AbstractyStudent
             }
             if (j != name.Length)
             {
+                j = 0;
                 Console.WriteLine("введите коректные данные");
                 NameValid();
-            }
+            }            
             return name;
         }
         static int NumValid()
