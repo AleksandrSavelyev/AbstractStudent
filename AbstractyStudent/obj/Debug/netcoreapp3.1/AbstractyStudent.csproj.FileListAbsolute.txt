@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\bin\Debug\netcoreapp3.1\AbstractyStudent.exe
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\bin\Debug\netcoreapp3.1\AbstractyStudent.deps.json
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\bin\Debug\netcoreapp3.1\AbstractyStudent.runtimeconfig.json
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\bin\Debug\netcoreapp3.1\AbstractyStudent.runtimeconfig.dev.json
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\bin\Debug\netcoreapp3.1\AbstractyStudent.dll
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\bin\Debug\netcoreapp3.1\AbstractyStudent.pdb
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\obj\Debug\netcoreapp3.1\AbstractyStudent.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\obj\Debug\netcoreapp3.1\AbstractyStudent.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\obj\Debug\netcoreapp3.1\AbstractyStudent.AssemblyInfo.cs
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\obj\Debug\netcoreapp3.1\AbstractyStudent.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\obj\Debug\netcoreapp3.1\AbstractyStudent.dll
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\obj\Debug\netcoreapp3.1\AbstractyStudent.pdb
+C:\Users\admin\source\repos\AbstractyStudent\AbstractyStudent\obj\Debug\netcoreapp3.1\AbstractyStudent.genruntimeconfig.cache
